@@ -135,7 +135,7 @@ input[type=tel]:focus {
   background: #655E7A;
   color: #fff;
   display: inline-block;
-  font-size: 14px;
+  font-size: 25px;
   letter-spacing: 1px;
   padding: 14px 35px;
   text-transform: uppercase;
@@ -199,6 +199,10 @@ input[type=tel]:focus {
 .btn:focus {
   outline: 0;
   box-shadow: none;
+}
+
+.btn-kakao {
+  background-color: #F9E000;
 }
 
 .mt-10 {
@@ -837,7 +841,7 @@ ul.dropdown-menu li {
   }
 }
 .slider {
-  background: url("../images/slider-bg.jpg") no-repeat;
+  background: url("../images/resumir-bg1.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
