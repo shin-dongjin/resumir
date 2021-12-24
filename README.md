@@ -101,4 +101,4 @@ Some third-party plugins that we used to build this template. Please check their
 * **Magnific Popup**: https://dimsemenov.com/plugins/magnific-popup/
 * **Slick**: https://kenwheeler.github.io/slick/
 * **Shuffle**: https://vestride.github.io/Shuffle/
-* **SyoTimer**: http://syomochkin.xyz/folio/syotimer/demo.html
+* **SyoTimer**: http://syomochkin.xyz/folio/syotimer/demo.html"# resumir" 
